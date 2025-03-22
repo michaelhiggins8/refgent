@@ -1,0 +1,129 @@
+
+
+.navContainer{
+
+display: flex;
+justify-content: flex-start;
+align-items: center;
+background-color: hsl(0, 0%, 97%);
+height: 5em;
+}
+
+.search{
+
+    margin-left: 35em;
+border-radius: 0.5em;
+height: 33%;
+width: 20%;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+.homeButton{
+
+
+    text-decoration: none;
+    height: 2em;
+    width: 2em;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2.5em;
+    margin-left: 2em;
+
+
+}
+
+
+.homeButtonLink{
+
+
+    text-decoration: none;
+    height: 2em;
+    width: 2em;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+
+
+
+
+.homeButtonLink img{
+
+    height: 5em;
+    width: 5em;
+}
+
+.logIn{
+
+
+    margin-left: 10%;
+    font-size: 1.3em;
+    border:3px solid  aquamarine;
+    border-radius: 0.7em;
+    color: black;
+    list-style-type: none;
+    height: 50%;
+width: 10%;
+display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;
+}
+
+.makeAccount{
+
+    margin-left: 1%;
+    background-color: aquamarine;
+    padding: 0.15em;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+
+font-size: 1.3em;
+border-radius: 25%;
+list-style-type: none;
+height: 50%;
+width: 10%;
+border-radius: 0.7em;
+
+}
+
+.makeAccountLink{
+   
+    text-decoration: none;
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+.logInLink{
+
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+color: black;
+font-weight: 200;
+}
+
+.searchButton{
+
+    color: aliceblue;
+    background-color: black;
+    border: 0;
+    margin-left: 0.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    border-radius: 0.4em;
+    font-size: large;
+    height: 2em;
+
+}

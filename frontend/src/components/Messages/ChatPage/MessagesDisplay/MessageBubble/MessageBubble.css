@@ -1,0 +1,22 @@
+.dark-theme{
+
+    background-color: rgb(231, 240, 248);
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 1em;
+    margin-bottom: 1em;
+    padding-right: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.light-theme{
+    background-color: rgb(237, 244, 250);
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 1em;
+    margin-bottom: 1em;
+    padding-left: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+}

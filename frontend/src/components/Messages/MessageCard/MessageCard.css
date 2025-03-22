@@ -1,0 +1,26 @@
+.messageCard{
+
+width: 66%;
+margin-left: 16.5%;
+margin-bottom: 1em;
+height: 6em;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: xx-large;
+background-color: rgb(240, 241, 242);
+border-radius: 1em;
+box-shadow: 0px 0px 5px;
+
+}
+
+.messageCard:hover{
+
+
+    background-color: rgb(232, 240, 247);
+    margin-left: 15%;
+    width: 70%;
+    height: 6.2em;
+}
